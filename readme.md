@@ -1,2 +1,4 @@
 # Utility Scripts
-+ This repo contains all the small 
+
+-   This repo contains Python Scripts containing the functions made for automation or some tasks.
+
